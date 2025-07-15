@@ -1,3 +1,6 @@
+<input type="text" id="searchInput" placeholder="Search the homepage..." onkeyup="searchHomepage()" style="padding: 8px; width: 300px;" />
+<p id="searchStatus"></p>
+
 <script>
 function searchHomepage() {
     const input = document.getElementById("searchInput").value.toLowerCase();
