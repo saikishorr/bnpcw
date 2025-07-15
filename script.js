@@ -84,3 +84,7 @@ function searchHomepage() {
 }
 
 
+<div style="width: 100%; max-width: 800px; height: 600px; border: 1px solid #ccc; margin: auto;">
+  <iframe src="documents/brochure.pdf" width="100%" height="100%" style="border: none;"></iframe>
+</div>
+
