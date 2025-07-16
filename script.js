@@ -2,8 +2,6 @@
 <p id="searchStatus"></p>
     
 
-
-
 function removeHighlights() {
     const highlights = document.querySelectorAll('.highlight');
     highlights.forEach(span => {
